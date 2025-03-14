@@ -24,4 +24,4 @@ composer.phar
 # Build data
 /build/
 
-# End of https://www.toptal.com/developers/gitignore/api/phpunit,composer
+# End of https://www.toptal.com/developers/gitignore/api/phpunit,composer 
